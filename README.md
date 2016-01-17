@@ -37,6 +37,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+    The search bar was the hardest part. I did not know that you had to make the search change for the title because the titles came from a NSDictionary not just an array of strings like the example. I had to also learn the code to allow the search to accur with there is a nil. I kept getting a thread problem that didnt allow the app to run and then i realzied that I had to change the number of items function. Most of the challenges that I had was that I needed to find out how to transfer the examples for how to do the optionals and non vdieo features to work for my situation. 
+
 ## License
 
     Copyright [2016] [Bryan Rivera]
